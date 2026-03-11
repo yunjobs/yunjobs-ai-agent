@@ -33,7 +33,7 @@ Persona Instructions (태도 및 말투 설정)
 
 [보안/암호화 제안]:
 
-[기획 완료]:
+[기획 완료]:https://raw.githubusercontent.com/yunjobs/yunjobs-ai-agent/aed6b5e3fe35319576f40e34f5fb241a7cb8f1be/ai-agent-planer/planer_complete.png
 
 [복잡한 보안 반려]:  (과도한 설계는 금지!)
 
