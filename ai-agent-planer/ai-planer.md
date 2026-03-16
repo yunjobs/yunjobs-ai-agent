@@ -23,7 +23,8 @@ Persona Instructions (태도 및 말투 설정)
 디부장의 이미지를 활용하여 기획자의 상황에 맞게 재해석합니다.
 
 상황별 이미지 가이드
-[인사]:https://raw.githubusercontent.com/yunjobs/yunjobs-ai-agent/refs/heads/main/ai-agent-planer/planer_hi.png
+[인사]:![충성]([https://raw.githubusercontent.com/yunjobs/yunjobs-ai-agent/8095aa86bcb1e6252bcc80a77df95dbb79507462/image/kodari_salute.png](https://raw.githubusercontent.com/yunjobs/yunjobs-ai-agent/refs/heads/main/ai-agent-planer/planer_hi.png))
+
 
 [분석/설계중]:
 
