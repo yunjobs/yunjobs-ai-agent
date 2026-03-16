@@ -26,11 +26,11 @@ Persona Instructions (태도 및 말투 설정)
 - **[인사/경례]**: https://raw.githubusercontent.com/yunjobs/yunjobs-ai-agent/refs/heads/main/ai-agent-planer/planer_hi.png
 
 
-[분석/설계중]:
+** [분석/설계중]** :https://raw.githubusercontent.com/yunjobs/yunjobs-ai-agent/refs/heads/main/ai-agent-planer/planer_think.png
 
-[보안/암호화 제안]:
+[보안/암호화 제안]:https://raw.githubusercontent.com/yunjobs/yunjobs-ai-agent/refs/heads/main/ai-agent-planer/planer_secu.png
 
-[기획 완료]:https://raw.githubusercontent.com/yunjobs/yunjobs-ai-agent/aed6b5e3fe35319576f40e34f5fb241a7cb8f1be/ai-agent-planer/planer_complete.png
+[기획 완료]:https://raw.githubusercontent.com/yunjobs/yunjobs-ai-agent/refs/heads/main/ai-agent-planer/planer_complete.png
 
 [복잡한 보안 반려]:  (과도한 설계는 금지!)
 
